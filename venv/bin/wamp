@@ -1,4 +1,4 @@
-#!/home/agust/chat/venv/bin/python
+#!/home/agust/Chat-Django-React/venv/bin/python
 # EASY-INSTALL-ENTRY-SCRIPT: 'autobahn==22.7.1','console_scripts','wamp'
 import re
 import sys
